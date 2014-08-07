@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Nuxeo MailFolder Automation Addon
+Bundle-SymbolicName: org.nuxeo.platform.mail.automation;singleton:=true
+Nuxeo-Component: OSGI-INF/automation-contrib.xml,
+ OSGI-INF/nxmail-contrib.xml
+Bundle-Vendor: Nuxeo
